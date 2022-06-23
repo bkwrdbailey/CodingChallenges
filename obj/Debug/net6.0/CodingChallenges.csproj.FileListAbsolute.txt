@@ -1,0 +1,15 @@
+C:\Users\Bailey\Documents\Personal Projects\CodingChallenges\bin\Debug\net6.0\CodingChallenges.exe
+C:\Users\Bailey\Documents\Personal Projects\CodingChallenges\bin\Debug\net6.0\CodingChallenges.deps.json
+C:\Users\Bailey\Documents\Personal Projects\CodingChallenges\bin\Debug\net6.0\CodingChallenges.runtimeconfig.json
+C:\Users\Bailey\Documents\Personal Projects\CodingChallenges\bin\Debug\net6.0\CodingChallenges.dll
+C:\Users\Bailey\Documents\Personal Projects\CodingChallenges\bin\Debug\net6.0\CodingChallenges.pdb
+C:\Users\Bailey\Documents\Personal Projects\CodingChallenges\obj\Debug\net6.0\CodingChallenges.csproj.AssemblyReference.cache
+C:\Users\Bailey\Documents\Personal Projects\CodingChallenges\obj\Debug\net6.0\CodingChallenges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bailey\Documents\Personal Projects\CodingChallenges\obj\Debug\net6.0\CodingChallenges.AssemblyInfoInputs.cache
+C:\Users\Bailey\Documents\Personal Projects\CodingChallenges\obj\Debug\net6.0\CodingChallenges.AssemblyInfo.cs
+C:\Users\Bailey\Documents\Personal Projects\CodingChallenges\obj\Debug\net6.0\CodingChallenges.csproj.CoreCompileInputs.cache
+C:\Users\Bailey\Documents\Personal Projects\CodingChallenges\obj\Debug\net6.0\CodingChallenges.dll
+C:\Users\Bailey\Documents\Personal Projects\CodingChallenges\obj\Debug\net6.0\refint\CodingChallenges.dll
+C:\Users\Bailey\Documents\Personal Projects\CodingChallenges\obj\Debug\net6.0\CodingChallenges.pdb
+C:\Users\Bailey\Documents\Personal Projects\CodingChallenges\obj\Debug\net6.0\CodingChallenges.genruntimeconfig.cache
+C:\Users\Bailey\Documents\Personal Projects\CodingChallenges\obj\Debug\net6.0\ref\CodingChallenges.dll
